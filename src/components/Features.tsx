@@ -8,9 +8,9 @@ const Features = () => {
             <div className="flex flex-col justify-center items-center bg-white mt-10 pb-32">
                 <div className='text-xs font-semibold text-[#a078f5] py-1.5 px-2.5 bg-white border border-gray-300 rounded-md mt-24'>🔥 PREMIER FEATURES</div>
                 <h1 className=" max-w-5xl text-center text-4xl font-semibold tracking-tight text-black sm:text-5xl px-5 mt-6">
-                    Discover our product's <span className="text-[#fe8162]">Capabilities</span>
+                    Discover our product&apos;s <span className="text-[#fe8162]">Capabilities</span>
                 </h1>
-                <h2 className='text-md sm:text-xl sm:mt-12 max-w-2xl text-center tracking-tight px-6 text-gray-500 '>Don't settle for mediocrity - embrace the future of management with Manage Wise.</h2>
+                <h2 className='text-md sm:text-xl sm:mt-12 max-w-2xl text-center tracking-tight px-6 text-gray-500 '>Don&apos;t settle for mediocrity - embrace the future of management with Manage Wise.</h2>
                 <div className='flex justify-center flex-wrap self-center gap-10 mt-10'>
                     <div className='rounded-2xl bg-[#ededfa] p-7 flex flex-col items-start max-w-md'>
                         <p className='p-1.5 bg-white rounded-2xl text-2xl'>⭐</p>

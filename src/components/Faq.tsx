@@ -58,7 +58,7 @@ const Faq = () => {
                             <p className={`font-bold text-xl ${(number == 5) ? 'text-indigo-600' : 'text-black'}`}>How secure is the data stored within Manage Wise?</p>
                             <span className='font-sans font-bold text-indigo-700 text-xl cursor-pointer' onClick={() => { handleToggle(5) }}>{(number == 5) ? '✖️' : '➕'}</span>
                         </div>
-                        {(number == 5) && <p className='max-w-lg pt-3 text-gray-500'>Your data's security is a top priority. Manage Wise employs robust data encryption
+                        {(number == 5) && <p className='max-w-lg pt-3 text-gray-500'>Your data&apos;s security is a top priority. Manage Wise employs robust data encryption
                             and follows industry best practices to ensure your sensitive information is safe and
                             protected.</p>}
                     </div>

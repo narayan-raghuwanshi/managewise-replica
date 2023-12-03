@@ -14,7 +14,7 @@ const Testimonials = () => {
             <div className='flex flex-wrap justify-center self-center gap-6 mt-20 '>
                 <div className='max-w-xs rounded-2xl border border-gray-200 flex justify-center items-center flex-col p-8 '>
                     <div className='flex justify-center flex-col p-4 max-w-xs'>
-                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"The customer support team behind this product is exceptional. They have been incredibly responsive and helpful, addressing any questions or concerns promptly.</p>
+                        <p className='text-lg text-gray-800 mb-3 font-semibold '>&quot;The customer support team behind this product is exceptional. They have been incredibly responsive and helpful, addressing any questions or concerns promptly.</p>
                         <div className='flex gap-5 mt-5'>
                             <Image src={"/profile-image-testimonial.png"} alt="profile image" width={50} height={50} className='rounded-full' />
                             <div>
@@ -26,7 +26,7 @@ const Testimonials = () => {
                 </div>
                 <div className='max-w-xs rounded-2xl border border-gray-200 flex justify-center items-center flex-col p-8'>
                     <div className='flex justify-center flex-col p-4 max-w-xs'>
-                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"Using this product has been a game-changer for our team. The collaboration features and intuitive interface have greatly improved our productivity.</p>
+                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"&quot;sing this product has been a game-changer for our team. The collaboration features and intuitive interface have greatly improved our productivity.</p>
                         <div className='flex gap-5 mt-5'>
                             <Image src={"/profile-image-testimonial.png"} alt="profile image" width={50} height={50} className='rounded-full' />
                             <div>
@@ -38,7 +38,7 @@ const Testimonials = () => {
                 </div>
                 <div className='max-w-xs rounded-2xl border border-gray-200 flex justify-center items-center flex-col p-8'>
                     <div className='flex justify-center flex-col p-4 max-w-xs'>
-                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"I can't imagine running my business without this product. The automation features have saved me hours of manual work, allowing me to focus on strategic tasks.</p>
+                        <p className='text-lg text-gray-800 mb-3 font-semibold '>&quot;I can&apos;t imagine running my business without this product. The automation features have saved me hours of manual work, allowing me to focus on strategic tasks.</p>
                         <div className='flex gap-5 mt-5'>
                             <Image src={"/profile-image-testimonial.png"} alt="profile image" width={50} height={50} className='rounded-full' />
                             <div>
@@ -50,7 +50,7 @@ const Testimonials = () => {
                 </div>
                 <div className='max-w-xs rounded-2xl border border-gray-200 flex justify-center items-center flex-col p-8'>
                     <div className='flex justify-center flex-col p-4 max-w-xs'>
-                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"Manage Wise transformed our team's productivity. The intuitive interface and powerful features have made a significant impact on our daily operations"</p>
+                        <p className='text-lg text-gray-800 mb-3 font-semibold '>&quot;Manage Wise transformed our team&apos;s productivity. The intuitive interface and powerful features have made a significant impact on our daily operations&quot;</p>
                         <div className='flex gap-5 mt-5'>
                             <Image src={"/profile-image-testimonial.png"} alt="profile image" width={50} height={50} className='rounded-full' />
                             <div>
