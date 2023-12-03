@@ -26,7 +26,7 @@ const Testimonials = () => {
                 </div>
                 <div className='max-w-xs rounded-2xl border border-gray-200 flex justify-center items-center flex-col p-8'>
                     <div className='flex justify-center flex-col p-4 max-w-xs'>
-                        <p className='text-lg text-gray-800 mb-3 font-semibold '>"&quot;sing this product has been a game-changer for our team. The collaboration features and intuitive interface have greatly improved our productivity.</p>
+                        <p className='text-lg text-gray-800 mb-3 font-semibold '>&quot;sing this product has been a game-changer for our team. The collaboration features and intuitive interface have greatly improved our productivity.</p>
                         <div className='flex gap-5 mt-5'>
                             <Image src={"/profile-image-testimonial.png"} alt="profile image" width={50} height={50} className='rounded-full' />
                             <div>
