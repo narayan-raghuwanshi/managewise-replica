@@ -10,11 +10,11 @@ const Footer = () => {
     };
     return (
         <div className='flex flex-col justify-center items-center bg-[#fdf3ed] mt-20 pb-20'>
-            <div className='mt-40 border-2 border-gray-300 bg-white rounded-2xl'>
+            <div className='mt-40 border-2 border-gray-300 bg-white max-w-sm md:max-w-screen-2xl rounded-2xl'>
                 <div id="faq" className='bg-white rounded-2xl pt-36 flex flex-row justify-center px-5 md:px-40 flex-wrap gap-10 pb-20'>
                     <div className='flex flex-col justify-start'>
                         <div className='text-xs font-semibold w-fit text-[#a078f5] py-1.5 px-2.5 bg-white border border-gray-300 rounded-md mt-5'>👋 DON&apos;T MISS OUT</div>
-                        <h1 className=" max-w-md text-4xl font-semibold tracking-tight text-black sm:text-5xl mt-6">
+                        <h1 className=" max-w-sm text-4xl font-semibold tracking-tight text-black sm:text-5xl mt-6">
                             Unleash your  <span className="text-[#fe8162]">Potential</span> with us
                         </h1>
                         <h2 className='text-md sm:text-xl sm:mt-8 max-w-sm tracking-tight text-gray-500 '>Join our community of ambitious individuals and organizations eager to make a difference.</h2>
